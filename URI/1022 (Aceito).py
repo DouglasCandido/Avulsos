@@ -2,8 +2,6 @@
 
 # -*- coding: utf-8 -*-
 
-# Essa versão do código-fonte é aceita pelo URI.
-
 # By DouglasCandido
 
 '''
